@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">MealPlannerFinalProject</string>
+    <string name="week_selection">Week Selection</string>
+    <string name="select">Select</string>
+    <string name="kcal">Kcal/Portion:</string>
+    <string name="remove">Remove</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="type">Lunch</string>
+    <string name="already_member_message">Already have an account?</string>
+    <string name="new_member_message">Don\'t have an account?</string>
+</resources>

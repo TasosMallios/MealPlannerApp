@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MealPlannerFinalProject</string>
+    <string name="week_selection">Επιλογή Εβδομάδας</string>
+    <string name="select">Επιλογή</string>
+    <string name="kcal">Kcal/Μερίδα:</string>
+    <string name="remove">Αφαίρεση</string>
+    <string name="login">Σύνδεση</string>
+    <string name="register">Εγγραφή</string>
+    <string name="first_name">Όνομα</string>
+    <string name="last_name">Επώνυμο</string>
+    <string name="email">Email</string>
+    <string name="type">Μεσημεριανό</string>
+    <string name="password">Κωδικός</string>
+    <string name="already_member_message">Είστε ήδη μέλος;</string>
+    <string name="new_member_message">Δεν έχετε εγγραφεί;</string>
+</resources>
