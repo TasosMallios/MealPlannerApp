@@ -19,15 +19,4 @@ Skroutz Meal Planner is an Android app that allows users to plan their meals for
 - **Hilt**: Dependency Injection library for managing app components.
 - **Retrofit**: Used for network communication with APIs.
 
-## Setup Instructions
-
-To run this project locally with mock server (JSON server), follow these steps:
-
-### Prerequisites
-- JSON server
-
-### Steps to set up
-
-1. Run node server.js
-2. Start Android app
-3. That's it! Happy meal planning!
+![meal_planner](https://github.com/user-attachments/assets/3ba77ec3-d7e2-4568-a938-60bab97b39aa)
