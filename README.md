@@ -20,3 +20,5 @@ Skroutz Meal Planner is an Android app that allows users to plan their meals for
 - **Retrofit**: Used for network communication with APIs.
 
 ![meal_planner](https://github.com/user-attachments/assets/3ba77ec3-d7e2-4568-a938-60bab97b39aa)
+
+*GIF made with [Jitter](https://jitter.video)*
